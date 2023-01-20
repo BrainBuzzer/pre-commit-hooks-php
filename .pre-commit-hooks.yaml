@@ -1,0 +1,6 @@
+- id: pint
+  name: Pint
+  description: Run Pint on all PHP files.
+  entry: vendor/bin/pint
+  language: script
+  files: \.php$
